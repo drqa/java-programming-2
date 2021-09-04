@@ -1,0 +1,20 @@
+Make: c
+Model: c
+MPG: 12.0
+
+Make: a
+Model: a
+MPG: 100.0
+
+Make: d
+Model: d
+MPG: 126.0
+
+Make: b
+Model: b
+MPG: 200.0
+
+Make: e
+Model: e
+MPG: 210.0
+
